@@ -34,7 +34,7 @@ End-to-end deep learning compiler benchmarking project using Keras CNN, ONNX, ON
 
 ---
 
-# ⚙️ Installation (Google Colab)
+# ⚙️ Installation (Google Colab / Local Environment)
 
 - pip install tensorflow==2.20.0
 - pip install tf2onnx
@@ -44,10 +44,6 @@ End-to-end deep learning compiler benchmarking project using Keras CNN, ONNX, ON
 - pip install apache-tvm
 - pip install numpy pandas matplotlib seaborn scikit-learn
 - pip install onnxsim
-
----   
-
-# ⚙️ Installation (Google Colab / Local Environment)
 
 | Category | Package | Version |
 |----------|--------|--------|
